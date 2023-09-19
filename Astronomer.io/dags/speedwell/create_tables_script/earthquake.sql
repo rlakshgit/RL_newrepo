@@ -1,0 +1,26 @@
+CREATE TABLE if not exists `{project}.{dataset}.t_{table}`
+(
+  time STRING,
+  latitude STRING,
+  longitude STRING,
+  depth STRING,
+  mag STRING,
+  magType STRING,
+  nst STRING,
+  gap STRING,
+  dmin STRING,
+  rms STRING,
+  net STRING,
+  id STRING,
+  updated STRING,
+  place STRING,
+  type STRING,
+  horizontalError STRING,
+  depthError STRING,
+  magError STRING,
+  magNst STRING,
+  status STRING,
+  locationSource STRING,
+  magSource STRING,
+  Territory STRING
+);

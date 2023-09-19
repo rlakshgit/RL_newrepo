@@ -1,0 +1,59 @@
+﻿Description,Code,Remap,xbeta
+Alabama,AL,11 > SouthEast,-0.104170284
+Alaska,AK,12 >      West,-0.081955388
+Arizona,AZ,07 >  Mountain,-0.111391238
+Arkansas,AR,10 >    Plains,-0.10693906
+California,CA,04 >        CA,-0.096174774
+Colorado,CO,07 >  Mountain,-0.111391238
+Connecticut,CT,09 > NorthEast,-0.083641327
+District of Columbia,DC,09 > NorthEast,-0.083641327
+Delaware,DE,09 > NorthEast,-0.083641327
+Florida,FL,b01>        FL,0
+Georgia,GA,11 > SouthEast,-0.104170284
+Hawaii,HI,12 >      West,-0.081955388
+Idaho,ID,12 >      West,-0.081955388
+Illinois,IL,08 >   MidWest,-0.058181551
+Indiana,IN,08 >   MidWest,-0.058181551
+Iowa,IA,08 >   MidWest,-0.058181551
+Kansas,KS,10 >    Plains,-0.10693906
+Kentucky[E],KY,09 > NorthEast,-0.083641327
+Louisiana,LA,06 >        LA,-0.011161437
+Maine,ME,09 > NorthEast,-0.083641327
+Maryland,MD,09 > NorthEast,-0.083641327
+Massachusetts[E],MA,09 > NorthEast,-0.083641327
+Michigan,MI,08 >   MidWest,-0.058181551
+Minnesota,MN,08 >   MidWest,-0.058181551
+Mississippi,MS,10 >    Plains,-0.10693906
+Missouri,MO,10 >    Plains,-0.10693906
+Montana,MT,07 >  Mountain,-0.111391238
+Nebraska,NE,08 >   MidWest,-0.058181551
+Nevada,NV,12 >      West,-0.081955388
+New Hampshire,NH,09 > NorthEast,-0.083641327
+New Jersey,NJ,05 >        NJ,-0.055360941
+New Mexico,NM,07 >  Mountain,-0.111391238
+New York,NY,02 >        NY,-0.093045699
+North Carolina,NC,11 > SouthEast,-0.104170284
+North Dakota,ND,08 >   MidWest,-0.058181551
+Ohio,OH,09 > NorthEast,-0.083641327
+Oklahoma,OK,10 >    Plains,-0.10693906
+Oregon,OR,12 >      West,-0.081955388
+Pennsylvania[E],PA,09 > NorthEast,-0.083641327
+Rhode Island[F],RI,09 > NorthEast,-0.083641327
+South Carolina,SC,11 > SouthEast,-0.104170284
+South Dakota,SD,08 >   MidWest,-0.058181551
+Tennessee,TN,11 > SouthEast,-0.104170284
+Texas,TX,03 >        TX,-0.128755383
+Utah,UT,07 >  Mountain,-0.111391238
+Vermont,VT,09 > NorthEast,-0.083641327
+Virginia[E],VA,09 > NorthEast,-0.083641327
+Washington,WA,12 >      West,-0.081955388
+West Virginia,WV,09 > NorthEast,-0.083641327
+Wisconsin,WI,08 >   MidWest,-0.058181551
+Wyoming,WY,07 >  Mountain,-0.111391238
+American Samoa,AS,12 >      West,-0.081955388
+Guam,GU,12 >      West,-0.081955388
+Northern Mariana Islands,MP,12 >      West,-0.081955388
+Puerto Rico,PR,11 > SouthEast,-0.104170284
+U.S. Virgin Islands,VI,11 > SouthEast,-0.104170284
+Armed Forces,AP,11 > SouthEast,-0.104170284
+Armed Forces,AE,11 > SouthEast,-0.104170284

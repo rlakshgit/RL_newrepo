@@ -1,0 +1,13 @@
+[{"name": "ApplicationId", "type": "STRING", "mode": "NULLABLE"},
+{ "name": "AccountNumber", "type": "STRING", "mode": "NULLABLE"},
+{ "name": "n_Rings", "type": "STRING", "mode": "NULLABLE"},
+{ "name": "n_subtype_EngRings", "type": "STRING", "mode": "NULLABLE"},
+{ "name": "val_Rings", "type": "STRING", "mode": "NULLABLE"},
+{ "name": "val_subtype_EngRings", "type": "STRING", "mode": "NULLABLE"},
+{ "name": "n_Items", "type": "STRING", "mode": "NULLABLE"},
+{ "name": "TotalRetailReplacement", "type": "STRING", "mode": "NULLABLE"},
+{ "name": "hour_submitted", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "first_year_loss", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "SubmissionDate", "type": "TIMESTAMP", "mode": "NULLABLE"},
+{ "name": "bq_load_date", "type": "TIMESTAMP", "mode": "NULLABLE"},
+  { "name": "bad_record", "type": "STRING", "mode": "NULLABLE"}]

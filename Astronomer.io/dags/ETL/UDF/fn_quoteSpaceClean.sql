@@ -1,0 +1,1 @@
+CREATE OR REPLACE FUNCTION `{bq_target_project}.custom_functions.fn_quoteSpaceClean`(input STRING) as (REPLACE(REPLACE(input,"'",""),'"',""));

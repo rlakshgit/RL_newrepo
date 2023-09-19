@@ -1,0 +1,13 @@
+﻿GLM Variable,Variable Level,Factor_M
+region,b00>FL,1
+region,01> NY,0.928
+region,02> TX,1.097
+region,03> CA,1.057
+region,04> NJ,1.142
+region,05> LA,0.88
+region,06> MidWest,0.946
+region,07> North,0.821
+region,08> NorthEast,0.78
+region,09> South,0.934
+region,10> SouthEast,1.031
+region,11> West,0.882

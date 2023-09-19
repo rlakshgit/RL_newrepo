@@ -1,0 +1,22 @@
+s/from airflow.operators import DummyOperator/from airflow.operators.dummy import DummyOperator/
+s/from airflow.hooks.base_hook import BaseHook/from airflow.hooks.base import BaseHook/
+s/from airflow.contrib.hooks.gcp_api_base_hook import GoogleCloudBaseHook/from airflow.providers.google.common.hooks.base_google import GoogleBaseHook/
+s/GoogleCloudBaseHook/GoogleBaseHook/
+/@GoogleBaseHook.catch_http_exception/d
+s/from airflow.operators.python_operator/from airflow.operators.python/
+s/from airflow.operators.dummy import DummyOperator/from airflow.operators.empty import EmptyOperator/
+s/DummyOperator/EmptyOperator/
+s/CloudBaseHook/BaseHook/
+s/from airflow.operators import PythonOperator/from airflow.operators.python import PythonOperator/
+s/from airflow.contrib.hooks.gcs_hook import GoogleCloudStorageHook, _parse_gcs_url/from airflow.providers.google.cloud.hooks.gcs import GCSHook, _parse_gcs_url/
+s/GoogleCloudStorageHook/GCSHook/
+s/from airflow.utils import apply_defaults/from airflow.utils.decorators import apply_defaults/
+s/airflow.jobs import BaseJob /from airflow.jobs.base_job import BaseJob/
+s/from airflow.models.python import Variable/from airflow.models import Variable/
+s/from airflow.models.python import BranchPythonOperator/from airflow.operators.python import BranchPythonOperator/
+s/from airflow.operators import BranchPythonOperator/from airflow.operators.python import BranchPythonOperator/
+s/from airflow.contrib.operators.bigquery_check_operator import BigQueryCheckOperator/from airflow.providers.google.cloud.operators.bigquery import BigQueryCheckOperator/
+s/from airflow.contrib.sensors.gcs_sensor import GoogleCloudStorageObjectSensor/from airflow.providers.google.cloud.sensors.gcs import GCSObjectExistenceSensor/
+s/from airflow.sensors.external_task_sensor import ExternalTaskSensor/from astronomer.providers.core.sensors.external_task import ExternalTaskSensorAsync/
+s/from airflow.providers.google.cloud.sensors.bigquery import BigQueryTableExistenceSensor/from airflow.providers.google.cloud.sensors.bigquery import BigQueryTableExistenceAsyncSensor/
+s/from airflow.sensors.time_delta import TimeDeltaSensor/from airflow.sensors.time_delta import TimeDeltaSensorAsync/

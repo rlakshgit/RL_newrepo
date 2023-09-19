@@ -1,0 +1,29 @@
+﻿GLM Variable,Variable Level,Factor_M
+mb_item_age,01>Wed Rings:18-24,1.30920289
+mb_item_age,b02>Wed Rings:25-39,0.899177809
+mb_item_age,03>Wed Rings:40-49,1.171628685
+mb_item_age,04>Wed Rings:50-59,1.001684079
+mb_item_age,05>Wed Rings:60-69,0.950430944
+mb_item_age,06>Wed Rings:70+,0.839832074
+mb_item_age,07>Wed Rings:miss,1.144653351
+mb_item_age,08>LadiesItem:18-24,1.658983058
+mb_item_age,09>LadiesItem:25-39,0.9522293
+mb_item_age,10>LadiesItem:40-49,1.049340503
+mb_item_age,11>LadiesItem:50-59,1.001684079
+mb_item_age,12>LadiesItem:60-69,0.835336185
+mb_item_age,13>LadiesItem:70+,0.838932896
+mb_item_age,14>LadiesItem:miss,1.224680176
+mb_item_age,15>Other:18-24,3.611997259
+mb_item_age,16>Other:25-39,1.457567228
+mb_item_age,17>Other:40-49,1.109585416
+mb_item_age,18>Other:50-59,0.859613985
+mb_item_age,19>Other:60-69,0.69776198
+mb_item_age,20>Other:70+,0.723838136
+mb_item_age,21>Other:miss,1.334379869
+mb_item_age,22>GentItems:18-24,3.009548127
+mb_item_age,23>GentItems:25-39,1.20669662
+mb_item_age,24>GentItems:40-49,0.927951499
+mb_item_age,25>GentItems:50-59,0.624029399
+mb_item_age,26>GentItems:60-69,0.605146665
+mb_item_age,27>GentItems:70+,0.617735155
+mb_item_age,28>GentItems:miss,1.299311934

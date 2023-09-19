@@ -1,0 +1,74 @@
+	SELECT
+DateKey
+,InforceDate
+,AccountNumber
+,PolicyNumber
+,PolicyOrigEffDate
+,PolicyEffectiveDate
+,PolicyExpirationDate
+,SourceOfBusiness
+,AccountSegment
+,LOBProductLineCode
+,LOBCode
+,AutoPayIndicator
+,PaymentMethod
+,AnnualStatementLine
+,ASLDescription
+,AgencyMasterCode
+,AgencyMasterName
+,AgencyCode
+,AgencyName
+,InforceStateCode
+,InforceStateDesc
+,InforceRegion
+,InforceCountryCode
+,InforceCountryDesc
+,LOBStateCode
+,LOBStateDesc
+,LOBRegion
+,LOBCountryCode
+,LOBCountryDesc
+,PrimaryRatingCity
+,PrimaryRatingCounty
+,PrimaryRatingPostalCode
+,BusinessTypeDesc
+,count(ItemNumber) as PolicyItemCount
+,SUM(PremiumInforce) AS PremiumInforce
+,bq_load_date
+FROM `{project}.{dataset}.pl_items_monthly_inforce`
+Where bq_load_date = DATE('{date}')
+group by
+DateKey
+,InforceDate
+,AccountNumber
+,PolicyNumber
+,PolicyOrigEffDate
+,PolicyEffectiveDate
+,PolicyExpirationDate
+,SourceOfBusiness
+,AccountSegment
+,LOBProductLineCode
+,LOBCode
+,AutoPayIndicator
+,PaymentMethod
+,AnnualStatementLine
+,ASLDescription
+,AgencyMasterCode
+,AgencyMasterName
+,AgencyCode
+,AgencyName
+,InforceStateCode
+,InforceStateDesc
+,InforceRegion
+,InforceCountryCode
+,InforceCountryDesc
+,LOBStateCode
+,LOBStateDesc
+,LOBRegion
+,LOBCountryCode
+,LOBCountryDesc
+,PrimaryRatingCity
+,PrimaryRatingCounty
+,PrimaryRatingPostalCode
+,BusinessTypeDesc
+,bq_load_date

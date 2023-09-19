@@ -1,0 +1,21 @@
+﻿GLM Variable,Variable Level,Factor_M
+mb_icnt_polvalue,01>i1 1-500,3.986815275
+mb_icnt_polvalue,02>i1 500-1k,2.739592564
+mb_icnt_polvalue,03>i1 1-1.5k,1.962153819
+mb_icnt_polvalue,04>i1 1.5-2k,1.528507081
+mb_icnt_polvalue,05>i1 2-3k,1.385911533
+mb_icnt_polvalue,06>i1 3-4.5k,1.141741072
+mb_icnt_polvalue,07>i1 4.5-6k,1.057746434
+mb_icnt_polvalue,b08>i1 6k+,0.976681841
+mb_icnt_polvalue,09>i2 0-2.5k,1.934806727
+mb_icnt_polvalue,10>i2 2.5-4.5k,1.10365048
+mb_icnt_polvalue,11>i2 4.5-6k,1.023562569
+mb_icnt_polvalue,12>i2 6-8k,0.98156525
+mb_icnt_polvalue,13>i2 8-10k,0.969845068
+mb_icnt_polvalue,14>i2 10-16k,0.877060293
+mb_icnt_polvalue,15>i2 16-20k,0.858503338
+mb_icnt_polvalue,16>i2 20-25k,0.913197521
+mb_icnt_polvalue,17>i2 25-30k,0.950311431
+mb_icnt_polvalue,18>i2 30-40k,1.043096206
+mb_icnt_polvalue,19>i2 40k+,1.03430607
+mb_icnt_polvalue,99>ND,1.475766262

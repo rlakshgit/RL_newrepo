@@ -1,0 +1,54 @@
+﻿GLM Variable,Variable Level,Factor_M
+mb_item_val_combo4,01> Wed Rings:1-500,0.043005512
+mb_item_val_combo4,02> Wed Rings:500-1k,0.101833808
+mb_item_val_combo4,03> Wed Rings:1-1.5k,0.153764993
+mb_item_val_combo4,04> Wed Rings:1.5-2k,0.197176218
+mb_item_val_combo4,05> Wed Rings:2-3k,0.310369972
+mb_item_val_combo4,b06>Wed Rings:3-4.5k,0.405712382
+mb_item_val_combo4,07> Wed Rings:4.5-6k,0.541220318
+mb_item_val_combo4,08> Wed Rings:6-8k,0.649545524
+mb_item_val_combo4,09> Wed Rings:8-12k,0.815076175
+mb_item_val_combo4,10> Wed Rings:12-16k,1.09177202
+mb_item_val_combo4,11> Wed Rings:16-30k,1.809882936
+mb_item_val_combo4,12>aWed Rings:30-50k,4.226305884
+mb_item_val_combo4,12>bWed Rings:50k+,8.93338094
+mb_item_val_combo4,13> LadiesItem:1-500,0.049091198
+mb_item_val_combo4,14> LadiesItem:500-1k,0.111570905
+mb_item_val_combo4,15> LadiesItem:1-1.5k,0.176484886
+mb_item_val_combo4,16> LadiesItem:1.5-2k,0.247484553
+mb_item_val_combo4,17> LadiesItem:2-3k,0.357026896
+mb_item_val_combo4,18> LadiesItem:3-4.5k,0.546088866
+mb_item_val_combo4,19> LadiesItem:4.5-6k,0.856458838
+mb_item_val_combo4,20> LadiesItem:6-8k,1.053229344
+mb_item_val_combo4,21> LadiesItem:8-12k,1.371713564
+mb_item_val_combo4,22> LadiesItem:12-16k,2.008682003
+mb_item_val_combo4,23> LadiesItem:16-30k,3.089905501
+mb_item_val_combo4,24>aLadiesItem:30-50k,6.856133544
+mb_item_val_combo4,24>bLadiesItem:50k+,11.03213109
+mb_item_val_combo4,25> Other:1-500,0.084388175
+mb_item_val_combo4,26> Other:500-1k,0.191090532
+mb_item_val_combo4,27> Other:1-1.5k,0.307124273
+mb_item_val_combo4,28> Other:1.5-2k,0.436952235
+mb_item_val_combo4,29> Other:2-3k,0.599237188
+mb_item_val_combo4,30> Other:3-4.5k,0.9010872
+mb_item_val_combo4,31> Other:4.5-6k,1.333170887
+mb_item_val_combo4,32> Other:6-8k,1.712106252
+mb_item_val_combo4,33> Other:8-12k,2.331629059
+mb_item_val_combo4,34> Other:12-16k,3.320755847
+mb_item_val_combo4,35> Other:16-30k,5.871875305
+mb_item_val_combo4,36>aOther:30-50k,11.92550976
+mb_item_val_combo4,36>bOther:50k+,21.30395718
+mb_item_val_combo4,37> GentItems:1-500,0.101022383
+mb_item_val_combo4,38> GentItems:500-1k,0.229227496
+mb_item_val_combo4,39> GentItems:1-1.5k,0.365546856
+mb_item_val_combo4,40> GentItems:1.5-2k,0.467786376
+mb_item_val_combo4,41> GentItems:2-3k,0.632099891
+mb_item_val_combo4,42> GentItems:3-4.5k,0.80736764
+mb_item_val_combo4,43> GentItems:4.5-6k,0.801687667
+mb_item_val_combo4,44> GentItems:6-8k,0.943281288
+mb_item_val_combo4,45> GentItems:8-12k,1.322622365
+mb_item_val_combo4,46> GentItems:12-16k,2.03708187
+mb_item_val_combo4,47> GentItems:16-30k,4.25470575
+mb_item_val_combo4,48>aGentItems:30-50k,7.94547129
+mb_item_val_combo4,48>bGentItems:50k+,26.366842
+mb_item_val_combo4,99>IDK,2.573027927

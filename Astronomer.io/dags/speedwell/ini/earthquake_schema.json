@@ -1,0 +1,47 @@
+[{ "name": "time", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "latitude", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "longitude", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "depth", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "mag", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "magType", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "nst", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "gap", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "dmin", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "rms", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "net", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "id", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "updated", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "place", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "type", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "horizontalError", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "depthError", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "magError", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "magNst", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "status", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "locationSource", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "magSource", "type": "STRING", "mode": "NULLABLE"},
+  { "name": "Territory", "type": "STRING", "mode": "NULLABLE"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+[{"mode": "NULLABLE", "name": "AccountJewelerName", "type": "STRING"},
+{"mode": "NULLABLE", "name": "WorkedClaims5yrs", "type": "INTEGER"},
+{"mode": "NULLABLE", "name": "WorkedClaimPayments5yrs", "type": "FLOAT"},
+{"mode": "NULLABLE", "name": "WorkedClaimsCurrent", "type": "INTEGER"},
+{"mode": "NULLABLE", "name": "WorkedClaimsPaidCurrent", "type": "FLOAT"},
+{"mode": "NULLABLE", "name": "Jeweler_Key", "type": "STRING"}]
